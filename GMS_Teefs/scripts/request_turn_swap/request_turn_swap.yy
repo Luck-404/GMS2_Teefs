@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"request_turn_swap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"request_turn_swap",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
