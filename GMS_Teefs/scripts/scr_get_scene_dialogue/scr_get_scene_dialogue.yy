@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"request_turn_swap",
+  "%Name":"scr_get_scene_dialogue",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"request_turn_swap",
+  "name":"scr_get_scene_dialogue",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",
